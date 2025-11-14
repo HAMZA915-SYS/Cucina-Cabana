@@ -920,4 +920,9 @@
     width: 30px;
     height: 30px;
   }
+.logo-box{
+            position: relative;
+        left: -40px;
+  }
+
 }
